@@ -1,8 +1,6 @@
 - 👋 Salut, je suis @Zebu69
 - 👀 Je suis intéressé par l'informatique
-- 🌱 Cela fait 1 ans que j'aprend à dévellopé
-- 💞️ Si vous voulez que je vous fasse un bot discord à un prix abordable,
-- venez me mp sur Discord
+
 - 📫 Discord: Zebu_69#6668
 
 <!---
